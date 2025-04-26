@@ -1,16 +1,11 @@
-## Hi there 👋
+## Ah.. 你好 internet people
 
-<!--
-**Kaede106/Kaede106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h> About Me:</h>
+<p>I am a mathematics student at the University of California, Irvine. I have interests in computing </p>
+<h>My interests</h>
+<ul>
+  <li>Complex Analysis</li>
+  <li>Computer Architecture</li>
+  <li>Philadelphia Sixers</li>
+  <li>Rhythm Games</li>
+</ul>
