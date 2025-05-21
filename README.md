@@ -1,7 +1,7 @@
 ## Ah.. 你好 internet people
 
 <h> About Me:</h>
-<p>I am a mathematics student at the University of California, Irvine. I have interests in computing </p>
+<p>I am a mathematics student at the University of California, Irvine.</p>
 <h>My interests</h>
 <ul>
   <li>Complex Analysis</li>
